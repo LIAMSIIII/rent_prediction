@@ -49,7 +49,7 @@ def main():
     
     
     # code for Prediction
-    
+    pred=''
     
     # creating a button for Prediction
     
