@@ -1,0 +1,4 @@
+numpy
+streamlit
+pickle-mixin
+scikit-learn
