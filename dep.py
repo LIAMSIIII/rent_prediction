@@ -4,7 +4,7 @@ import streamlit as st
 
 
 # loading the saved model
-loaded_model = pickle.load(open('random_forest_model.pkl.sav','rb'))
+loaded_model = pickle.load(open('random_forest_model.pkl','rb'))
 
 
 # creating a function for Prediction
